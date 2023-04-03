@@ -12,13 +12,14 @@
 
 <br>
 
-<p align='center'> I'm a Mobile Developer from Brazil! 💻 </p>
-<ul align='center'>
-  <li> 💼 Currently working with Flutter and Dart. Recent focus on Rendering and Animations. </li>
-  <li> 🎯 Interested in new challenges to improve myself. </li>
-  <li> ☕ I can't program without coffee and music. </li>
-  <li> 🧠 Sometimes I play with A.I. in my free time. </li>
-</ul>
+<p align='center'> 💻 I'm a Mobile Developer from Brazil! 💻 </p>
+
+<br>
+
+<p align='center'> 💼 Currently working with Flutter and Dart. Recent focus on Rendering and Animations. </p>
+<p align='center'> 🎯 Interested in new challenges to improve myself. </p>
+<p align='center'> ☕ I can't program without coffee and music. </p>
+<p align='center'> 🧠 Sometimes I play with A.I. in my free time. </p>
 
 <details align='center'>
   <summary>📊 Some stats</summary>
